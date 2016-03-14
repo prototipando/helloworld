@@ -1,0 +1,72 @@
+body{
+	background-color: rgba(70, 225, 231, 0.4);
+	min-width: 100%;
+	min-height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	min-width: 60%;
+	max-width: 60%;
+	height: 100px;
+}
+.span9{
+	min-width: 100%;
+	height: 600px;
+	background-color: gray;
+	
+}
+.hero-unit{
+	min-width: 100%;
+	max-width: 100%;
+	height: 430px;
+	background-color: white;
+	background-image: url("http://127.0.0.1/classes/imagens/logo_int.png");
+}
+.hero-unit img{
+	float: right;
+	width: 378px;
+	height: 450px;
+	padding: 0px;
+	margin: 15px ;
+	background-position: center;
+	border: 2px solid red;
+	
+
+}
+.hero-unit h1{
+	float: right;
+	min-width: 100%;
+	height: 100px;
+	text-align: center;
+	font-size: 32px;
+	background-color: blue;
+	font-family: arial,helvetica,sans-serif;
+	padding: 30px;
+	color: white;
+	margin-top: 0px;
+}
+p{
+    font-family:  Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+    margin: 10px 10px;
+    line-height: 45px;
+}
+.clear{
+	clear: both;
+}
+footer h2{
+	height: 300px;
+	color: white;
+	text-align: center;
+	background-image: url("http://127.0.0.1/classes/imagens/int-e2.png");
+	background-repeat: no-repeat;
+}
+iframe{
+	min-width: 100%;
+	max-width: 100%;
+	height:600px;
+}
